@@ -23,5 +23,4 @@ function calcularNivel() {
 
     document.getElementById("resultado").textContent = `O Herói de nome ${nomeHeroi} está no nivel de ${xp}.`
     console.log(`O Herói de nome ${nomeHeroi} está no nivel de ${xp}.`)
-
 }
